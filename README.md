@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jerome!</h1>
 <h3 align="center">A software engineer from Chicago with a humanities background</h3>
 
-- 🔭 I’m currently working on [Bridge App](https://github.com/jmolasky/local-weather](https://github.com/International-Aid-Hackathon-Team-7/frontend)
+- 🔭 I’m currently working on [Bridge App](https://github.com/International-Aid-Hackathon-Team-7/frontend)
 
 - 🌱 I’m currently learning **Python**
 
