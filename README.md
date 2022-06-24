@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bridge App](https://github.com/International-Aid-Hackathon-Team-7/frontend)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 All of my projects are available at [https://jmolasky.github.io/](https://jmolasky.github.io/)
 
