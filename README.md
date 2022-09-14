@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jeromemolasky@gmail.com**
 
-- 📄 Check out my resume [https://drive.google.com/file/d/1Rbsp63ZoEgfsQL7cx3gYASENleSsuj3w/view?usp=sharing](https://drive.google.com/file/d/1Rbsp63ZoEgfsQL7cx3gYASENleSsuj3w/view?usp=sharing)
+- 📄 Check out my resume [here](https://drive.google.com/file/d/1Rbsp63ZoEgfsQL7cx3gYASENleSsuj3w/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
