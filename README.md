@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Jerome!</h1>
 <h3 align="center">A software engineer from Chicago with a humanities background</h3>
 
-- 🔭 I’m currently working on [Bridge App](https://github.com/International-Aid-Hackathon-Team-7/frontend)
-
-- 🌱 I’m currently learning **PHP**
-
 - 👨‍💻 All of my projects are available at [https://jmolasky.github.io/](https://jmolasky.github.io/)
 
 - 📫 How to reach me **jeromemolasky@gmail.com**
