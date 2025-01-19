@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jmolasky.github.io/](https://jmolasky.github.io/)
 
-- - 💬 Ask me about **Tableau, PHP, and SCSS**
+- 💬 Ask me about **Tableau, PHP, and SCSS**
 
 - 📫 How to reach me **jeromemolasky@gmail.com**
 
